@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Transparent Filler Masterbatch
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This concentrate contains a special Barium Sulfate in LLDPE carrier and was specially designed for high demands of plastic film process. It offers a unique balance of cost saving and good performance and can be added into HDPE OR LDPE films. Adding rate depends on each bag's request, some up to 50% for HDPE films. For LDPE  film, 5-10%. Compared with CaCO3 filler, films made with BaSO4 filler are much more transparent and stronger. 
 
 ---

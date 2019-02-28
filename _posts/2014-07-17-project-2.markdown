@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: PE Filler Masterbatch
 subtitle: Website Design
 layout: default
 modal-id: 2
@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: PE shopping bags & garbage bags, industrial films, packaging material & containers.. etc. In general for injection, extrusion, film blown molding technology. PE Filler masterbatch is a polyethylene based master batch containing 65-80% calcium carbonate. It is grayish white with excellent dispensability. It helps improve for machine’s extrusion efficiency and increase film & mold’s physical properties. It can be mixed with polyethylene resin for film blowing, casting, extrusion etc. and is easy to disperse with good compatibility. It functions as a modifier to improve the heat resistance, slip resistance, size stability and printability. It also reduces heat release from burning and therefore it prevents further environmental pollution.
 ---

@@ -1,6 +1,5 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: PP Filler Masterbatch
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +9,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: PP Filler Masterbatch is a poly propylene based masterbatch containing 75%~80% calcium carbonate. It is natural white with excellent dispersity. It can be mixed with Poly propylene resin for extrusion, thermal forming, injection etc. and is easy to disperse with good compatibility. It functions as a modifier to improve the heat resistance, flexural strength, size stability and printability. It also reduces heat release from burning and there force prevents further environmental pollution.
 ---

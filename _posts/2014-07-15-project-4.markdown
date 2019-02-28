@@ -1,5 +1,5 @@
 ---
-title: Treehouse
+title: Calcium Carbonate Powder
 subtitle: Website Design
 layout: default
 modal-id: 4
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Natural Superfine Calcium Carbonate powder (coated and uncoated). Manufactured from white and pure crystalline limestone/calcium carbonate; produced by the lastest advanced technology production lines. Used in cosmetics, chemistry products or in pharmaceutical industry if sterilized. Widely used as an extender in paints, in particular matte emulsion paint or a filler in plastics, a mixture in plastic, paint, paper, rubber, glass and porcelain of high quality and highgrade products; and other applications in industry.
 
 ---
